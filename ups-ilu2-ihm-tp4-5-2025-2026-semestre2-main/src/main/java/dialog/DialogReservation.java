@@ -82,7 +82,7 @@ public class DialogReservation {
         }
     }
 
-//Pour reset l'étape de selection de la table
+//Pour reset l'etape de selection de la table
     private void resetTableStep() {
         selectedTable = 0;
         frameReservation.clearAvailableTables();
